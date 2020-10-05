@@ -1,0 +1,842 @@
+
+newmtl tile_supportUpright_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  206.1155
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_support_upright_dff.tga
+map_bump tile_support_upright_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_chevron_yellow_mat
+Kd  1.0 1.0 1.0
+Ks  0.8706294 0.8706294 0.8706294
+Ns  176.13
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_chevron_yellow_dff.tga
+map_bump tile_chevron_yellow_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_floor_rubber_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  100.3156
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_floor_rubber_dff.tga
+map_bump tile_floor_rubber_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_wallPanel02_mat
+Kd  1.0 1.0 1.0
+Ks  0.8955224 0.8955224 0.8955224
+Ns  240.0525
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_wallPanel02_dff.tga
+map_bump tile_wallPanel02_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_gutter_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_gutter_dff.tga
+map_bump tile_gutter_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_floor_concreteSlabs_mat
+Kd  1.0 1.0 1.0
+Ks  0.1044776 0.1044776 0.1044776
+Ns  58.82516
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_floor_concreteSlabs_01_dff.tga
+map_bump tile_floor_concreteSlabs_01_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_floor_concreteSlabs_yellowPaint_mat
+Kd  1.0 1.0 1.0
+Ks  0.2462686 0.2260526 0.2260526
+Ns  56.88885
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_floor_concreteSlabs_01_dff.tga
+map_bump tile_floor_concreteSlabs_01_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_handrail_yellow_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  72.62486
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_handrail_yellow_dff.tga
+map_bump tile_handrail_yellow_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_floor_concreteSmooth_mat
+Kd  1.0 1.0 1.0
+Ks  0.06716418 0.06315438 0.06315438
+Ns  100.3155
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_floor_concreteSmooth_dff.tga
+map_bump tile_floor_concreteSmooth_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_support_foot_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_support_foot_dff.tga
+map_bump prop_support_foot_dff.pngnormalmap.tga
+
+
+
+
+newmtl Default_Material
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+
+
+
+
+newmtl tile_grate_tech_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  392.2789
+refr  0.75
+index  1.0
+refl  0.0
+illum 2
+map_Kd tile_grate_tech_dff.tga
+map_bump tile_grate_tech_dff.pngnormalmap.tga
+alpha
+
+
+
+
+newmtl tile_glass_transparent_mat
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.75
+index  1.0
+refl  0.5
+illum 2
+map_Kd swatch_whiteDirty_dff.tga
+
+
+
+
+newmtl tile_ceilingPanel_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd swatch_whiteDirty_dff.tga
+
+
+
+
+newmtl prop_computerStation_A_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_A_dff.tga
+map_bump prop_computerStation_A_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_computerStation_A_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_A_dff.tga
+
+
+
+
+newmtl prop_computerStation_B_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_B_dff.tga
+map_bump prop_computerStation_B_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_computerStation_B_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_B_dff.tga
+
+
+
+
+newmtl prop_computerStation_C_mat
+Kd  1.0 1.0 1.0
+Ks  0.880597 0.880597 0.880597
+Ns  126.6135
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_C_dff.tga
+map_bump prop_computerStation_C_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_computerStation_C_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_computerStation_C_dff.tga
+
+
+
+
+newmtl prop_fan_large_aperture_mat
+Kd  1.0 1.0 1.0
+Ks  0.8656716 0.8656716 0.8656716
+Ns  185.7086
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_fan_large_aperture_dff.tga
+map_bump prop_fan_large_aperture_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_metal_greyDark02_mat
+Kd  1.0 1.0 1.0
+Ks  0.4300512 0.4663194 0.4925373
+Ns  504.4734
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_metal_grey_dark02_dff.tga
+map_bump tile_metal_grey_dark02_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_powerCube_mat
+Kd  1.0 1.0 1.0
+Ks  0.8059701 0.8059701 0.8059701
+Ns  189.3423
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_powerCube_dff.tga
+map_bump prop_powerCube_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_turbine_mat
+Kd  1.0 1.0 1.0
+Ks  1 0.977351 0.9477612
+Ns  182.7058
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_turbine_dff.tga
+map_bump prop_turbine_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_turbine_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_turbine_dff.tga
+
+
+
+
+newmtl tile_metal_lightDirty_mat
+Kd  1.0 1.0 1.0
+Ks  0.3391608 0.3391608 0.3391608
+Ns  526.6119
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_metal_light_dirty_dff.tga
+map_bump tile_metal_light_dirty_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_vent_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_vent_dff.tga
+map_bump prop_vent_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_strip_metal_dark_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_strip_metal_dark_dff.tga
+map_bump tile_strip_metal_dark_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_pipe_pink_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  386.7491
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_pipe_pink_dff.tga
+map_bump tile_pipe_pink_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_ceilingJoint_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_ceilingJoint_dff.tga
+map_bump prop_ceilingJoint_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_ceilingSupport_base_mat
+Kd  1.0 1.0 1.0
+Ks  0.9253731 0.9253731 0.9253731
+Ns  166.9509
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_ceilingSupport_base_dff.tga
+map_bump prop_ceilingSupport_base_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_paint_orange_mat
+Kd  1.0 1.0 1.0
+Ks  0.8507463 0.8507463 0.8507463
+Ns  321.3179
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_paint_orange_dff.tga
+map_bump tile_paint_orange_dff.pngnormalmap.tga
+
+
+
+
+newmtl decal_pl1_ut8_mat
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.75
+index  1.0
+refl  0.0
+illum 2
+map_Kd decal_pl1_dff.tga
+
+
+
+
+newmtl tile_wallPanel03_mat
+Kd  1.0 1.0 1.0
+Ks  0.9029851 0.9029851 0.9029851
+Ns  386.7491
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_wallPanel03_dff.tga
+map_bump tile_wallPanel03_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_wallPanel01_mat
+Kd  1.0 1.0 1.0
+Ks  0.619403 0.619403 0.619403
+Ns  73.78617
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_wallPanel01_dff.tga
+map_bump tile_wallPanel01_dff.pngnormalmap.tga
+
+
+
+
+newmtl door_pneumatic_main_mat
+Kd  1.0 1.0 1.0
+Ks  1 0.9913594 0.972549
+Ns  858.3203
+refr  0.0
+refl  0.0
+illum 2
+map_Kd door_pneumatic_main_dff.tga
+map_bump door_pneumatic_main_dff.pngnormalmap.tga
+
+
+
+
+newmtl door_pneumatic_main_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd door_pneumatic_main_dff.tga
+
+
+
+
+newmtl prop_wallLight_mat
+Kd  1.0 1.0 1.0
+Ks  0.9104478 0.9104478 0.9104478
+Ns  285.4555
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_wallLight_dff.tga
+map_bump prop_wallLight_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_wallLight_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_wallLight_dff.tga
+
+
+
+
+newmtl door_pneumatic_kicker_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  336.7751
+refr  0.0
+refl  0.0
+illum 2
+map_Kd door_pneumatic_kicker_dff.tga
+map_bump door_pneumatic_kicker_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_airConditioner_mat
+Kd  1.0 1.0 1.0
+Ks  0.6940298 0.6940298 0.6940298
+Ns  149.7406
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_airConditioner_dff.tga
+map_bump prop_airConditioner_dff.pngnormalmap.tga
+
+
+
+
+newmtl door_pneumatic_plates_mat
+Kd  1.0 1.0 1.0
+Ks  0.8880597 0.8880597 0.8880597
+Ns  352.8216
+refr  0.0
+refl  0.0
+illum 2
+map_Kd door_pneumatic_plates_dff.tga
+map_bump door_pneumatic_plates_dff.pngnormalmap.tga
+
+
+
+
+newmtl door_pneumatic_dado_mat
+Kd  1.0 1.0 1.0
+Ks  0.858209 0.858209 0.858209
+Ns  352.8215
+refr  0.0
+refl  0.0
+illum 2
+map_Kd door_pneumatic_dado_dff.tga
+map_bump door_pneumatic_dado_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_rubber_black_mat
+Kd  1.0 1.0 1.0
+Ks  0.4020979 0.4020979 0.4020979
+Ns  649.2649
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_tube_ribbed_dff.tga
+map_bump tile_tube_ribbed_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_batteringRam_mat
+Kd  1.0 1.0 1.0
+Ks  0.9645131 0.8507463 1
+Ns  332.5493
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_batteringRam_dff.tga
+map_bump prop_batteringRam_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_bench_work_mat
+Kd  1.0 1.0 1.0
+Ks  0.7164179 0.7164179 0.7164179
+Ns  185.7085
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_bench02_dff.tga
+map_bump prop_bench02_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_blastDoor_mat
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_blastDoor_dff.tga
+map_bump prop_blastDoor_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_capsule_mat
+Kd  1.0 1.0 1.0
+Ks  0.880597 0.880597 0.880597
+Ns  185.7086
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_capsule_dff.tga
+map_bump prop_capsule_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_floorBot_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  219.3243
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_floorBot_dff.tga
+map_bump prop_floorBot_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_floorBot_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_floorBot_dff.tga
+
+
+
+
+newmtl prop_hoverPad_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  73.24834
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_hoverPad_dff.tga
+map_bump prop_hoverPad_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_hoverPad_fx (Instance)
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_hoverPad_dff.tga
+
+
+
+
+newmtl tile_pipe_grey_mat
+Kd  1.0 1.0 1.0
+Ks  0.8636363 0.8636363 0.8636363
+Ns  427.3376
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_metal_grey_dark02_dff.tga
+
+
+
+
+newmtl tile_pipe_red_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_pipe_red_dff.tga
+
+
+
+
+newmtl tile_pipe_blue_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_pipe_blue_dff.tga
+
+
+
+
+newmtl prop_powerCube_fx
+Kd  1.0 1.0 1.0
+Ks  0.0 0.0 0.0
+Ns  0.0
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_powerCube_dff.tga
+
+
+
+
+newmtl prop_retroTelevision_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  78.125
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_retroTelevision_dff.tga
+map_bump prop_retroTelevision_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_robotArm_mat
+Kd  1.0 1.0 1.0
+Ks  1 1 1
+Ns  762.9941
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_robotArm_dff.tga
+map_bump prop_robotArm_dff.pngnormalmap.tga
+
+
+
+
+newmtl tile_tube_ribbed_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  462.4301
+refr  0.0
+refl  0.0
+illum 2
+map_Kd tile_tube_ribbed_dff.tga
+map_bump tile_tube_ribbed_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_samoflange_mat
+Kd  1.0 1.0 1.0
+Ks  0.9626865 0.9626865 0.9626865
+Ns  216.9706
+refr  0.0
+refl  0.5
+illum 2
+map_Kd prop_samoflange_dff.tga
+map_bump prop_samoflange_dff.pngnormalmap.tga
+
+
+
+
+newmtl prop_weight_ton_mat
+Kd  1.0 1.0 1.0
+Ks  0.8134328 0.8134328 0.8134328
+Ns  118.9369
+refr  0.0
+refl  0.0
+illum 2
+map_Kd prop_weight_ton_dff.tga
+map_bump prop_weight_ton_dff.pngnormalmap.tga
+
+
+
+
+newmtl vehicle_rcLand_clean_dome_mat
+Kd  1.0 1.0 1.0
+Ks  0.7728838 1 0.7611941
+Ns  280.3276
+refr  0.0
+refl  0.5
+illum 2
+
+
+
+newmtl vehicle_rcFlyer_metal_mat
+Kd  1.0 1.0 1.0
+Ks  0.9615384 0.9615384 0.9615384
+Ns  413.9908
+refr  0.0
+refl  0.5
+illum 2
+map_Kd vehicle_rcFlyer_dff.tga
+map_bump vehicle_rcFlyer_dff.pngnormalmap.tga
+
+
+
+
+newmtl vehicle_rcLand_clean_body_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  100.572
+refr  0.0
+refl  0.5
+illum 2
+map_Kd vehicle_rcLand_clean_dff.tga
+map_bump vehicle_rcLand_clean_dff.pngnormalmap.tga
+
+
+
+
+newmtl vehicle_rcLand_clean_tyres_mat
+Kd  1.0 1.0 1.0
+Ks  0.6492537 0.6347182 0.6347182
+Ns  462.4302
+refr  0.0
+refl  0.0
+illum 2
+map_Kd vehicle_rcLand_clean_dff.tga
+map_bump vehicle_rcLand_clean_dff.pngnormalmap.tga
+
+
+
+
+newmtl vehicle_rcLand_clean_metal_mat
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+Ns  100.572
+refr  0.0
+refl  0.5
+illum 2
+map_Kd vehicle_rcLand_clean_dff.tga
+map_bump vehicle_rcLand_clean_dff.pngnormalmap.tga
+
+
+
